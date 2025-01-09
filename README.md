@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **spranavan008@gmail.com**
 
+- ⚡Fun fact: I love exploring new technologies and staying updated on the latest trends in PC and mobile tech. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/spranavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s pranavan" height="30" width="40" /></a>
