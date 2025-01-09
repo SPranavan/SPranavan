@@ -2,13 +2,11 @@
 <h3 align="center">A Passionate Software Engineering Undergraduate from Sri Lanka 💻</h3><br>
 <img align="right" width="360" alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🔭 I’m currently working on **Model Monitoring Framework**
+- 🔭 I’m currently working on **Akuru Mithura**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **spranavan008@gmail.com**
-
-- ⚡ Fun fact **I Love Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
