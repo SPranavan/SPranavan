@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **spranavan008@gmail.com**
 
-- ⚡Fun fact: I love exploring new tech and staying updated on PC and mobile trends. 
+- ⚡ Fun fact: I love exploring new tech and staying updated on PC and mobile trends. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
