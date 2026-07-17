@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pranavan</h1>
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<table align="center">
+<table>
 <tr>
-<td width="70%">
+<td width="60%" valign="middle">
 
-- 💻 Passionate Software Developer
-- 🌍 Based in Sri Lanka
+# Hi 👋, I'm Pranavan
+
+### A Passionate Software Developer from Sri Lanka 💻
 
 </td>
-<td width="30%">
-<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="250px" alt="Coding gif">
+<td width="40%" valign="middle">
+<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="330px" alt="Coding gif">
 </td>
 </tr>
 </table>
