@@ -6,6 +6,11 @@
 
 ### A Passionate Software Developer from Sri Lanka 💻
 
+- 🚀 Full Stack Developer
+- 🎓 Graduate of the University of Colombo School of Computing
+- 🔬 Working on an AI-powered online clinic platform
+- 📚 Always exploring new technologies
+
 </td>
 <td width="40%" valign="middle">
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="330px" alt="Coding gif">
@@ -57,4 +62,4 @@
 <img src="https://komarev.com/ghpvc/?username=SPranavan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h4 align="center">Thanks for visiting! Let's build something amazing together! 😊</h4>
+<h4 align="center">Thanks for stopping by - feel free to reach out.</h4>
