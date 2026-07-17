@@ -1,10 +1,9 @@
-<table>
+<h1 align="center">Hi 👋, I'm Pranavan</h1>
+<h3 align="center">A Passionate Software Developer from Sri Lanka 💻</h3>
+
+<table align="center">
 <tr>
 <td width="60%" valign="middle">
-
-# Hi 👋, I'm Pranavan
-
-### A Passionate Software Developer from Sri Lanka 💻
 
 - 🚀 Full Stack Developer
 - 🎓 Graduate of the University of Colombo School of Computing
